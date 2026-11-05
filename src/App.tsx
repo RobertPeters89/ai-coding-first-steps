@@ -22,7 +22,7 @@ export default function App() {
 
   return (
     <main>
-      <h1>Bookshelf</h1>
+      <h1>Bookshelf ({books.length})</h1>
       <div className="controls">
         <label>
           Search
